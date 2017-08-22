@@ -1,7 +1,5 @@
-asfsd
-daf
-
-
-asdf
-
-sdf
+function ()
+{
+	var i;
+	
+}

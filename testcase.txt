@@ -4,8 +4,23 @@ Test Case 1{
 	var i=0;
 	
 	for (i=0; i<100;i++)
-	{
+	{	
+		$(#"fakeid1").text = $(#"fakeid1").text+ i;
 		$(#"fakeid").text = $(#"fakeid").text+ i;
+
+	}
+
+}
+
+Test Case 2{
+
+	var i=0;
+	
+	for (i=0; i<100;i++)
+	{	
+		$(#"fakeid1").text = $(#"fakeid1").text+ i;
+		$(#"fakeid").text = $(#"fakeid").text+ i;
+
 	}
 
 }

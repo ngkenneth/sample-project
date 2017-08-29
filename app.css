@@ -4,7 +4,7 @@ p.one {
 }
 
 p.two {
-    border-style: double;
+    border-style: dotted;
     border-width: medium;
 }
 
@@ -19,12 +19,12 @@ p.four {
 }
 
 p.five {
-    border-style: double;
+    border-style: dotted;
     border-width: 15px;
 }
 
 p.six {
-    border-style: solid;
+    border-style: dotted;
     border-width: thick;
 }
 

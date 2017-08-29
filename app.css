@@ -4,7 +4,7 @@ p.one {
 }
 
 p.two {
-    border-style: solid;
+    border-style: double;
     border-width: medium;
 }
 
@@ -24,7 +24,7 @@ p.five {
 }
 
 p.six {
-    border-style: double;
+    border-style: solid;
     border-width: thick;
 }
 
